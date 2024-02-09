@@ -9,7 +9,6 @@
 - 📫 How to reach me: cristiandelahooz@gmail.com...
 
 
-**Contenido:** `Streaming`
+**Contenido:** `backend projects `
 
 
-**Documentacion:** es un proyecto de java donde se implementa una api restful de streaming con la ayuda de Jersey 
