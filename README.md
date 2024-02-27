@@ -1,4 +1,4 @@
-# ![Static Badge](https://img.shields.io/badge/hola-F7DF1E?style=for-the-badge&logo=superuser&logoColor=rgba&label=hola) Hola, mi nombre es Cristian de la Hoz 👋
+# ![Static Badge](https://img.shields.io/badge/V-F7DF1E?style=for-the-badge&logo=superuser&logoColor=rgba&label=Saratras) Hola, mi nombre es Cristian de la Hoz 👋
 ### computer science engineer
 ![GitHub Followers](https://img.shields.io/github/followers/SaratrasV?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/SaratrasV?style=social)
