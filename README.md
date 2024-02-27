@@ -1,5 +1,6 @@
 # ![Static Badge](https://img.shields.io/badge/V-F7DF1E?style=for-the-badge&logo=superuser&logoColor=rgba&label=Saratras) Hola, mi nombre es Cristian de la Hoz 👋
 ### computer science engineer
+[![stack-overflow](https://img.shields.io/stack-overflow/729672926432985098?style=social&label=Stack-Overflow&logo=stack-overflow)](https://mouredev.com/discord)
 ![GitHub Followers](https://img.shields.io/github/followers/SaratrasV?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/SaratrasV?style=social)
 
