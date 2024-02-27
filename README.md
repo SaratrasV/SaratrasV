@@ -10,7 +10,7 @@ el area de backend, especificamente aprendiendo spring boot e Hibernate en java.
 
 ## Tecnologías:
 
-[![Java](https://img.shields.io/badge/Java-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-FA7343?style=for-the-badge&logo=Java&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++-4479A1?style=for-the-badge&logo=C++&logoColor=white&labelColor=101010)]()
 </br>
 [![SqlServer](https://img.shields.io/badge/SQLserver-4479A1?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
