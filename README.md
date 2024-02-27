@@ -1,6 +1,6 @@
 # ![Static Badge](https://img.shields.io/badge/V-F7DF1E?style=for-the-badge&logo=superuser&logoColor=rgba&label=Saratras) Hola, mi nombre es Cristian de la Hoz 👋
 ### computer science engineer
-[![Stack Overflow](https://img.shields.io/Stack_Overflow-FA7343?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=101010)](https://stackoverflow.com/users/23268945/cristiandhoz)
+![Stack Overflow](https://img.shields.io/Stack_Overflow-FA7343?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=101010)(https://stackoverflow.com/users/23268945/cristiandhoz)
 ![GitHub Followers](https://img.shields.io/github/followers/SaratrasV?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/SaratrasV?style=social)
 
