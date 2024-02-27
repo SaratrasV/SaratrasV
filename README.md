@@ -14,7 +14,8 @@ el area de backend, especificamente aprendiendo spring boot e Hibernate en java.
 [![C++](https://img.shields.io/badge/C++-4479A1?style=for-the-badge&logo=C++&logoColor=white&labelColor=101010)]()
 </br>
 [![SqlServer](https://img.shields.io/badge/SQLserver-F7DF1E?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=101010)]()
-![Static Badge](https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=bitcoin)
+![Static Badge](https://img.shields.io/badge/hola-F7DF1E?style=for-the-badge&logo=bitcoin&logoColor=rgba&label=hola)
+
 
 </br>
 Y alguna más...
