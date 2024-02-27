@@ -1,10 +1,10 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Cristian de la Hoz 👋
 ### computer science engineer
-[![Instagraml Instagram](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
+[![Instagraml Instagram](https://www.instagram.com/ignxtiuss_/)
 ![GitHub Followers](https://img.shields.io/github/followers/SaratrasV?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/SaratrasV?style=social)
 
-Soy ingeniero de software profesional desde hace más de doce años.
+Soy estudiante de ciencias de la computacion, actualmente estoy en mi tercer años en pucmm.
 
 En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
 Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
