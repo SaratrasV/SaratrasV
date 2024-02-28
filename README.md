@@ -1,5 +1,5 @@
 # ![Static Badge](https://img.shields.io/badge/V-F7DF1E?style=for-the-badge&logo=superuser&logoColor=rgba&label=Saratras) Hola, mi nombre es Cristian de la Hoz 👋
-### computer science engineer
+### Computer Science Engineer
 
 ![GitHub Followers](https://img.shields.io/github/followers/SaratrasV?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/SaratrasV?style=social)
@@ -25,4 +25,4 @@ Y alguna más...
 
 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-@CristianDHoz-FA7343?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=101010)](https://stackoverflow.com/users/23268945/cristiandhoz)
-[![Linkedin](https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristian-de-la-hoz-785b602b3/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-1575F9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristian-de-la-hoz-785b602b3/)
