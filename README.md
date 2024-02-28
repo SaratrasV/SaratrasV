@@ -25,5 +25,4 @@ Y alguna más...
 
 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-@CristianDHoz-FA7343?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=101010)](https://stackoverflow.com/users/23268945/cristiandhoz)
-[![Instagram](https://img.shields.io/badge/Instagram-@ignxtiuss_-FF0000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/ignxtiuss_/)
-
+[![Linkedin](https://img.shields.io/badge/Linkedin-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristian-de-la-hoz-785b602b3/)
